@@ -12,6 +12,11 @@
 
 [![Fritz!Box Call Card](https://github-stats-extended.vercel.app/api/pin?username=mrtncode&repo=ha-fritzbox-call-card&show_owner=true&theme=ambient_gradient)](https://github.com/mrtncode/ha-fritzbox-call-card)
 
+#### Home Assistant Fritz!Box Voicemail integration
+> Python home assistant integration to integrate fritz!box voicemail/ TAM messages
+
+[![Fritz!Box Voicemail](https://github-stats-extended.vercel.app/api/pin?username=mrtncode&repo=ha-fritzbox-voicemail&show_owner=true&theme=ambient_gradient)](https://github.com/mrtncode/ha-fritzbox-voicemail)
+
 ### 🤝 Contributing
 
 #### Home Assistant WebUntis
