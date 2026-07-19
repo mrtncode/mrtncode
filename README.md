@@ -23,3 +23,7 @@
 > Co maintainer of the Home Assistant integration for WebUntis.
 
 [![Home Assistant WebUntis](https://github-stats-extended.vercel.app/api/pin?username=JonasJoKuJonas&repo=homeassistant-WebUntis&show_owner=true&theme=ambient_gradient)](https://github.com/JonasJoKuJonas/homeassistant-WebUntis)
+
+### ℹ️ Other information
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mrtncode&layout=compact&langs_count=6&theme=shadow_green)](https://github-stats-extended.vercel.app/api/top-langs?username=mrtncode&layout=compact&langs_count=6&theme=shadow_green)
